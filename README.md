@@ -3,4 +3,5 @@
 ローカルリポで変更  
 reabase-practiceブランチで更新(rebaseコンフリクト用)
 
-stash練習用
+stash練習用(track済)
+
