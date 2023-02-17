@@ -3,4 +3,4 @@
 ローカルリポで変更  
 reabase-practiceブランチで更新(rebaseコンフリクト用)
 
-rebase用コメント
+rebase用コメント(2回目)
