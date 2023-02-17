@@ -1,6 +1,8 @@
 ﻿# git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更(revert 練習用)
+ローカルリポで変更  
+reabase-practiceブランチで更新(rebaseコンフリクト用)
 
+stash練習用(track済)
 
-また間違えて変更
+変更(tag用)
