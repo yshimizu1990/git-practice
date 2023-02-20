@@ -1,5 +1,1 @@
 リセット用コメント
-
-変更(2nd commit用)
-
-変更(3rd commit用
